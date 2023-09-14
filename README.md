@@ -1,5 +1,9 @@
 # TECNICAS_TAREA1
 
+Germán LLorente Muñoz
+
+El link del repositorio es el siguiente: https://github.com/Germiprogramer/TECNICAS_TAREA1.git
+
 # Reflexión sobre la efectividad de la técnica
 
 Para la realizacón de esta parte de la tarea, se van a comparar dos resoluciones distintas del problema de optimización presentado. Mientras que en el trabajo se utilizan herramientas computacionales, resulta interesante pensar que se podría haber resuelto de una forma más tradicional mediante papel y boli, planteando una reflexión sobre la efectividad de ambos métodos.
